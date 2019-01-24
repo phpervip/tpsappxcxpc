@@ -1,2 +1,4 @@
 Application/Runtime
+Application/Common/Conf/db.php
+Public/upload
 .idea
